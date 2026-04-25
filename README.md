@@ -16,13 +16,13 @@ This project investigates whether companies with higher carbon emissions intensi
 (1) Data loading & cleaning – Load CSV, drop missing values, compute derived metrics
 (2) Interactive dashboard – Built with Streamlit; provides multi‑select filters for industry, region, and year range.
 (3) Visualizations – Created using Plotly:
-   - KPI cards (average profit margin, carbon intensity, ESG environmental score, water intensity)
-   - Customizable scatter plot (user selects X/Y axes and color grouping)
-   - Time‑series line charts (profit margin, carbon intensity, ESG environmental)
-   - Correlation heatmap of numerical features
-   - Box plots for profit margin and carbon intensity by industry
-   - Regional bar chart (profit margin colored by carbon intensity)
-   - Summary statistics table and raw data view with CSV download.
+- KPI cards (average profit margin, carbon intensity, ESG environmental score, water intensity)
+- Customizable scatter plot (user selects X/Y axes and color grouping)
+- Time‑series line charts (profit margin, carbon intensity, ESG environmental)
+- Correlation heatmap of numerical features
+- Box plots for profit margin and carbon intensity by industry
+- Regional bar chart (profit margin colored by carbon intensity)
+- Summary statistics table and raw data view with CSV download.
 
 4. Key Findings
 - Negative correlation between carbon intensity and profit margin (higher emitters tend to have lower margins) – visible in scatter plots and industry box plots.
