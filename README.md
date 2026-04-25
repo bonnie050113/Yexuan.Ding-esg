@@ -35,7 +35,7 @@ This project investigates whether companies with higher carbon emissions intensi
 streamlit run app.py
 
 6. Demo
-Demo video: https://youtu.be/your-video-link
+Demo video:https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/feed/my/most-recent/0/0
 
 7. Limitations & next steps
 -Data limitations: The dataset is simulated, not real corporate data. Real‑world relationships might differ due to reporting biases.
