@@ -13,9 +13,9 @@ This project investigates whether companies with higher carbon emissions intensi
   - Meta: CompanyID, CompanyName, Industry, Region, Year
 
 3. Methods
-1. Data loading & cleaning – Load CSV, drop missing values, compute derived metrics
-2. Interactive dashboard – Built with Streamlit; provides multi‑select filters for industry, region, and year range.
-3. Visualizations – Created using Plotly:
+(1) Data loading & cleaning – Load CSV, drop missing values, compute derived metrics
+(2) Interactive dashboard – Built with Streamlit; provides multi‑select filters for industry, region, and year range.
+(3) Visualizations – Created using Plotly:
    - KPI cards (average profit margin, carbon intensity, ESG environmental score, water intensity)
    - Customizable scatter plot (user selects X/Y axes and color grouping)
    - Time‑series line charts (profit margin, carbon intensity, ESG environmental)
